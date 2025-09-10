@@ -15,5 +15,5 @@ A simple Movie Website project built with HTML, CSS, and JavaScript. Users can b
 - API – optional: The Movie Database (TMDB) API for dynamic movie data
 
 
-## 🎥 ßcreenShot
+## 🎥 ScreenShot
 <img src="moview.gif"/>
